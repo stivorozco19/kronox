@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857809918406",
+    "firebase_url": "https://kronox-v1.firebaseio.com",
+    "project_id": "kronox-v1",
+    "storage_bucket": "kronox-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857809918406:android:7327ead4b70f4b0467bac7",
+        "android_client_info": {
+          "package_name": "com.flutterflow.kronox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857809918406-1tt5lkqed79ad0vsu2oc238ef239ivte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0pntcczwbxvqsNxqFhqTVoTFox93tBfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857809918406-1tt5lkqed79ad0vsu2oc238ef239ivte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
